@@ -1,0 +1,8 @@
+University of Waterloo CS486 Winter 2012
+Assignment 3
+Text Categorization
+
+Categorize news group into differnt according to its content
+Given a set of training data, categorize the testing data set into different group
+
+Detail description of the problem can be found in assnt3.pdf
