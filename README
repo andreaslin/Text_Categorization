@@ -1,8 +1,6 @@
-University of Waterloo CS486 Winter 2012
-Assignment 3
-Text Categorization
+# Text Categorisation – Decision Tree and Naive Bayes Model
 
-Categorize news group into differnt according to its content
-Given a set of training data, categorize the testing data set into different group
-
-Detail description of the problem can be found in assnt3.pdf
+* Categorised words to different labels using decision tree and naive Bayes Model under C++
+* Compared different parameters used to build the tree and the accuracy graphically using MATLAB
+* Challenged to increase the accuracy by adding the word dependencies to the parameters and
+changing the splitting parameters
